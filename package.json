@@ -1,0 +1,17 @@
+{
+    "author":"jhustlin",
+    "name": "jfboauth",
+    "description":"facebook oauth api",
+    "version":"0.0.1",
+    "keywords":[
+        "facebook",
+        "api",
+        "graph"
+    ],
+    "dependencies":{
+        "request":"2.x.x"
+    },
+    "engines":{
+        "node":"*"
+    }
+}
